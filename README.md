@@ -131,7 +131,8 @@ After installation, you'll have:
 
 ## 📄 License
 
-This guide is provided under MIT License. The Canon LBP2900B driver maintains its original license from the upstream repository.
+This project is licensed under the GNU General Public License v3.0.
+The Canon LBP2900 driver implementation maintains compatibility with the original upstream project's licensing terms while extending the solution for modern Fedora systems.
 
 ## 🤝 Contributing
 
