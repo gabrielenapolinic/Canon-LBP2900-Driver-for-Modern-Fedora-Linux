@@ -1,6 +1,6 @@
 # Canon LBP2900 Driver Installation on Fedora Linux
 
-**Successfully tested on Fedora 43 (2024-2025)**
+**Successfully tested on Fedora 43**
 
 This guide provides step-by-step instructions to install and configure a Canon LBP2900 printer (from 2005) on modern Fedora Linux systems using a reverse-engineered open-source driver.
 
